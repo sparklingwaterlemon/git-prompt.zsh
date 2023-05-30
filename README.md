@@ -1,4 +1,8 @@
 <h1><img src="screenshot.svg" width="800" /></h1>
+Note:
+Also check out this source:
+[https://gist.github.com/reinvanoyen/05bcfe95ca9cb5041a4eafd29309ff29](https://gist.github.com/reinvanoyen/05bcfe95ca9cb5041a4eafd29309ff29)
+
 
 A fast, customizable, pure-shell, asynchronous Git prompt for Zsh.
 It is heavily inspired by Olivier Verdier's [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) and very similar to the "Informative VCS" prompt of fish shell.
